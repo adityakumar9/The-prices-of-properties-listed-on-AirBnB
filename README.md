@@ -1,0 +1,2 @@
+# The-prices-of-properties-listed-on-AirBnB
+Use the data set named Amsterdam.json. This data is about the prices of properties listed on AirBnB. You work for a content marketing company. Your company is doing a story on Amsterdam, one of the components of this report will be about the accessibility of affordable accommodation in the city and about, what factors influence, the prices. Your task is to assist in relevant data analysis. Keeping this context in mind, answer the questions that follow:
